@@ -1,4 +1,4 @@
-fgets 함수
+/*fgets 함수
 
 char *fgets(char *str, int numChars, FILE *stream);
 
@@ -63,3 +63,4 @@ int main(int argc, char* argv[])
 ex) int Func(int a) {return a;}
 * return type // 함수가 끝났을 때 돌려주는 data 의 type
 * identifier // 함수의 이름
+*/

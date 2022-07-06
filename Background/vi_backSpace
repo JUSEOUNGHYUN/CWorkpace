@@ -1,0 +1,12 @@
+/*~$ vi .exrc
+
+vi 창에 다음을 작성.
+
+set autoindent
+set number
+set bs=2
+set nocp
+
+~$ source .exrc
+실행
+*/
