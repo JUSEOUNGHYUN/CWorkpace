@@ -10,3 +10,5 @@ set nocp
 ~$ source .exrc
 실행
 */
+
+// linux BackSpace 사용할수 있게 해주는 설정 코드
