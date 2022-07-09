@@ -1,11 +1,11 @@
-
+/*
 터미널 -> 작업 구성 -> 템플릿에서 tasks.json 파일 만들기 -> Others 선택
 
 c_cpp_properties.json
 F1 -> c/c++ edit -> configuration(JSON)
 // 터미널 -> 기본 빌드 작업 구성(Ctrl + Shift +B)
+*/
 
-/*
 {
     "version": "2.0.0",
     "runner": "terminal",
@@ -142,4 +142,3 @@ F1 -> c/c++ edit -> configuration(JSON)
         }
     ]
 }
-*/
